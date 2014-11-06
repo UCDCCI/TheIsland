@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74b98d302a504c849b819dd7477efbc2
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - Petyka
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
