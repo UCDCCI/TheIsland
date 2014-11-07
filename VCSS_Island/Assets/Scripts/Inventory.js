@@ -2,6 +2,8 @@
 
  static var charge : int = 0;
 var collectSound : AudioClip;
+var winObj : GameObject;
+
 var meterCharge : Texture2D[];
 var meter : Renderer;
 //HUD
@@ -62,6 +64,7 @@ campfire.GetComponentInChildren(ParticleSystem).Play();
 Destroy (matchGUI);
 haveMatches=false;
 fireIsLit = true;
+winObj.SendMessage("GameOver");
 
 }
 //Generator

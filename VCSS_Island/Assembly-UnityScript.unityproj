@@ -46,20 +46,25 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Animator.js" />
      <Compile Include="Assets\Scripts\CoconutThrower.js" />
      <Compile Include="Assets\Scripts\CoconutWin.js" />
      <Compile Include="Assets\Scripts\DoorManager.js" />
+     <Compile Include="Assets\Scripts\FadeWhite.js" />
+     <Compile Include="Assets\Scripts\Fader.js" />
      <Compile Include="Assets\Scripts\Inventory.js" />
      <Compile Include="Assets\Scripts\MainMenuGUI.js" />
      <Compile Include="Assets\Scripts\Matches.js" />
      <Compile Include="Assets\Scripts\PlayerCollisions.js" />
      <Compile Include="Assets\Scripts\PowerCell.js" />
+     <Compile Include="Assets\Scripts\Reloader.js" />
      <Compile Include="Assets\Scripts\Shooter.js" />
      <Compile Include="Assets\Scripts\TargetCollision.js" />
      <Compile Include="Assets\Scripts\TextHints.js" />
      <Compile Include="Assets\Scripts\ThrowTrigger.js" />
      <Compile Include="Assets\Scripts\TidyObject.js" />
      <Compile Include="Assets\Scripts\TriggerZone.js" />
+     <Compile Include="Assets\Scripts\WinGame.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
   </ItemGroup>
