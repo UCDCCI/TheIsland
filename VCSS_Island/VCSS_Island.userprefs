@@ -1,11 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TriggerZone.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MainMenuGUI.js">
     <Files>
-      <File FileName="C:\Users\pavlo2000uk\Desktop\UGDE\Assets\Scripts\PowerCell.js" Line="1" Column="1" />
-      <File FileName="C:\Users\pavlo2000uk\Desktop\UGDE\Assets\Scripts\TriggerZone.js" Line="1" Column="1" />
-      <File FileName="C:\Users\pavlo2000uk\Desktop\UGDE\Assets\Scripts\Inventory.js" Line="37" Column="65" />
-      <File FileName="Assets\Scripts\TriggerZone.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MainMenuGUI.js" Line="48" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

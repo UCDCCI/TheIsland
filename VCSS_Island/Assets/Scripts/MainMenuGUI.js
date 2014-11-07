@@ -46,7 +46,7 @@ function ButtonAction(levelName : String){
 		Application.LoadLevel(levelName);
 	}else{
 		Application.Quit();
-		Debug.Log("Have Quit");
+		//Debug.Log("Have Quit");
 	}
 }
 
